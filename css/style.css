@@ -333,7 +333,7 @@ section{
 
 .home-grid .box-container{
    display: grid;
-   grid-template-columns: repeat(auto-fit, 27.5rem);
+   grid-template-columns: repeat(auto-fit, 33rem);
    gap:1.5rem;
    justify-content: center;
    align-items: flex-start;
