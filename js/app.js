@@ -63,6 +63,12 @@ let galleryarray = [
         name : "doors lobby",
         src: "./images/watch3.jpg",
         desc : "Wanna make Doors game? (your in the right place) <br><br> <a class=btn11 href=https://www.roblox.com/library/11522149756/Roblox-Doors target=_blank>Get Model</a>"
+    },
+    {
+        id:9,
+        name : "limited words",
+        src: "./images/watch3.jpg",
+        desc : "oh no i have limited words... <br><br> <a class=btn11 href=https://www.roblox.com/library/11779729388/Limited-Words target=_blank>Get Model</a>"
     }
    ];
 
